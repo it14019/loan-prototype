@@ -1,4 +1,4 @@
-<a href="https://im2.ezgif.com/tmp/ezgif-2-aa17bfc6d6d7.gif"> </a>
+<img src="https://im2.ezgif.com/tmp/ezgif-2-aa17bfc6d6d7.gif" />
 
 **Instructions:**
 
