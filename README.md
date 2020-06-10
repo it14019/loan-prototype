@@ -1,4 +1,4 @@
-<img src="https://im2.ezgif.com/tmp/ezgif-2-aa17bfc6d6d7.gif" />
+<img src="https://github.com/it14019/loan-prototype/blob/master/ezgif-2-4bdf0c2a5962.gif" />
 
 **Instructions:**
 
